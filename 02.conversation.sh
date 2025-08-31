@@ -1,0 +1,5 @@
+echo "Trump: Hi Musk, what are you doing"
+echo "Musk:am doing goood"
+echo "Trump: what's app Musk"
+echo "Musk: goin to Mars, will you come"
+echo "Trump: sorry, you carry on Musk. "
