@@ -2,11 +2,6 @@
 
 
 
-Number1=100
-Number2=300
+Movies=("court" "bahunbali" "khakhi" "janaki")
 
-Timestamp=$(date)
-
-sum=$(($Number1+$Number2))
-echo "Script executed at $Timestamp "
-echo "Sum of $Number1 and $Number2 is : $sum"
+echo "first movie: ${Movies[0]} "
