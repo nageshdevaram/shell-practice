@@ -2,8 +2,9 @@
 
 
 
-echo "Enter your PIN"
+Number1=100
+Number2=300
 
-read -s PIN
+Timestamp=$(date)
 
-echo "your number is $PIN "
+echo "Script executed at $Timestamp "
