@@ -2,8 +2,8 @@
 
 echo "Shell script started"
 
-person1=Trump
-person2=Musk
+person1=$1
+person2=$2
 
 echo "$person1: Hi $person2, what are you doing"
 echo "$person2:am doing goood"
